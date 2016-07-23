@@ -7,9 +7,9 @@ from email.MIMEText import MIMEText
 # and let Python do the rest...
 fromaddr = "andoverace10@gmail.com"
 password = "gobigblue"
-toaddr = ""  # WARNING: change this
-subject = "Sample Subject"
-body = "Sample body"
+toaddr = "nhamilton20@andover.edu"  # WARNING: change this
+subject = "lol"
+body = "You be lookin like a snack "
 ##############################################
 
 print "Sending email from %s to %s..." % (fromaddr, toaddr)
